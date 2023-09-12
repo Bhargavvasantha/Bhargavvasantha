@@ -3,7 +3,7 @@
 
 Hi, I'm Bhargav 👋
 
-I'm a Full Software Developer.
+I'm a Full Stack Developer.
 
 - 🥅 2023 Goals:
     - 🌍 Go Travelling
@@ -11,16 +11,6 @@ I'm a Full Software Developer.
     - 💻 Learn more about Accessibility in Web Design
 
 - ⚡ Fun fact: The human body literally glows.
-
-<div align='center'>
-  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bhargav-vasantha/])
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhargavVasantha)
-
-</div>
-
-Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
-
 
 ### :gear: Technologies which I'm familiar with:
 ### Languages:
@@ -57,14 +47,7 @@ Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Webs
 
 [![Linkedin](https://img.shields.io/badge/Bhargav%20Vasantha-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/bhargav-vasantha/)
 [![Twitter](https://img.shields.io/badge/Bhargavvasantha-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/BhargavVasantha)
-<hr>
 
-### 🔥 Streak stats
-<p align="center">
-  <a href="https://github.com/bhargavvasantha/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bhargavvasanthastreak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavvasantha&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 ### ⚡ GitHub Stats
 <p align="center">
