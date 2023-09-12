@@ -1,24 +1,78 @@
-[![MasterHead]([https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif])]
-<h1 align="center">Hi 
-<h3 align="center">A passionate full stack developer</h3>
-<img align=”right” alt=”Coding” width=”400” src=”https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
+<hr>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Bhargav+Vasantha+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavvasantha&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavvasantha" /> </p>
 
-- 
+Hi, I'm Bhargav 👋
 
-- 
+I'm a Full Software Developer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhargav-vasantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhargav-vasantha/" height="30" width="40" /></a>
+- 🥅 2023 Goals:
+    - 🌍 Go Travelling
+    - 📚 Learn more about React,Java
+    - 💻 Learn more about Accessibility in Web Design
+
+- ⚡ Fun fact: The human body literally glows.
+
+<div align='center'>
+  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bhargav-vasantha/])
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhargavVasantha)
+
+</div>
+
+Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
+
+
+### :gear: Technologies which I'm familiar with:
+### Languages:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333333&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F7DF1E?logo=Javat&logoColor=334333&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=ffdf76&style=for-the-badge)
+
+### Frameworks | APIs:
+
+![React](https://img.shields.io/badge/React-1572B6?logo=React&logoColor=ffffff&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-7ACEF4?logo=jQuery&logoColor=000000&style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-E34F26?logo=Spring&logoColor=ffffff&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/NodeJS-ffffff?logo=NodeJS&logoColor=000000&style=for-the-badge)
+
+
+### Coding | Version Control: 
+[![Github](https://img.shields.io/badge/GitHub-73427A?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/bhargavvasantha)
+![VSCode](https://img.shields.io/badge/VSCode-24bfa5?logo=visual-studio&logoColor=ffffff&style=for-the-badge)
+
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff&style=for-the-badge)
+
+
+### Cloud Platforms: 
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=ffffff&style=for-the-badge)
+
+### Socials:
+
+[![Linkedin](https://img.shields.io/badge/Bhargav%20Vasantha-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/bhargav-vasantha/)
+[![Twitter](https://img.shields.io/badge/Bhargavvasantha-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/BhargavVasantha)
+<hr>
+
+### 🔥 Streak stats
+<p align="center">
+  <a href="https://github.com/bhargavvasantha/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bhargavvasanthastreak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavvasantha&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### ⚡ GitHub Stats
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=bhargavvasantha&show_icons=true&count_private=true&theme=gruvbox" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargavvasantha&show_icons=true&locale=en&layout=compact" alt="bhargavvasantha" /></p>
+## Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavvasantha&layout=compact&count_private=true&theme=gruvbox" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavvasantha&show_icons=true&locale=en" alt="bhargavvasantha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavvasantha&" alt="bhargavvasantha" /></p>
